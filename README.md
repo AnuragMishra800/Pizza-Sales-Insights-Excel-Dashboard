@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analysis – Business Insights Dashboard  
 
-![Pizza Sales Dashboard](Insert_Image_Link_Here)  
+![Pizza Sales Dashboard]
 
 ## 📊 Project Overview  
 
@@ -59,7 +59,8 @@ This analysis provides valuable insights into how the pizza restaurant can **boo
 
 ## 🔗 **Connect With Me**  
 💼 [LinkedIn Profile](https://www.linkedin.com/in/anurag-mishra-b17051288/)  
-📧 [Email Me](anuragmishrably800@gmail.com)  
+📧 [Email Me](mailto:anuragmishrably800@gmail.com)  
+ 
 
 
 ---
