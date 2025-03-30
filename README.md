@@ -58,9 +58,8 @@ This analysis provides valuable insights into how the pizza restaurant can **boo
 ---
 
 ## 🔗 **Connect With Me**  
-💼 [LinkedIn Profile](Insert_Link)  
-📂 [GitHub Repository](Insert_Link)  
-📧 [Email Me](Insert_Link)  
+💼 [LinkedIn Profile]((https://www.linkedin.com/in/anurag-mishra-b17051288/))   
+📧 [Email Me](anuragmishrably800@gmail.com)  
 
 ---
 
